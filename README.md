@@ -1,5 +1,7 @@
 # Automation_project_using_UIPATH
 
+Note :The file can be opened with UIPATH Studio
+
 https://www.vtu4u.com/
 
 Enter USN from the Input Excel Sheet and Press Enter

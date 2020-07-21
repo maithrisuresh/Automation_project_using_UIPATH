@@ -1,6 +1,6 @@
 # Automation_project_using_UIPATH
 
-Note :The file can be opened with UIPATH Studio
+Note :The file can be opened with UIPATH Studio . Download the code and open in UIPATH studio.
 
 https://www.vtu4u.com/
 
